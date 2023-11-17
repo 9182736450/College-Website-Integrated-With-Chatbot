@@ -1,0 +1,13 @@
+Questions_answers
+what are you_i'm an robot
+what is your age_i don't have any age
+How are you?_I'm good thank you.
+programs offered_We offer a wide range of programs including Engineering, Management, Arts, Science, and more. Which program are you interested in?
+admission requirements_To be eligible for admission, you need to meet the minimum academic qualifications and any specific requirements for your desired program. Can you please provide more details about your educational background?
+application process_To apply for admission, you can visit our website(http://www.sharnbasvauniversity.edu.in/adm.html#) and fill out the online application form. Make sure to submit all the required documents along with the application. If you need any assistance during the application process, feel free to ask.
+tuition fees_The tuition fees vary depending on the program and course you choose. For detailed information about the fees structure, I recommend visiting our official website or contacting the university's admissions office.
+campus facilities_Our campus provides state-of-the-art facilities including modern classrooms, well-equipped laboratories, a library, sports facilities, hostels, and a cafeteria. We strive to create a conducive learning environment for our students.
+academic calendar_The academic calendar for Sharnbasva University typically follows a semester system. It includes details about the start and end dates of each semester, examination periods, holidays, and other important academic events. You can find the academic calendar on our website.
+faculty information_We have a highly qualified and experienced faculty at Sharnbasva University. Our professors are dedicated to providing quality education and mentorship to our students. If you have any specific queries about a particular department or faculty member, please let me know.
+student support services_We offer various student support services including counseling, career guidance, library assistance, and academic support. Our aim is to ensure that students have a positive and enriching university experience.
+contact information_For any further assistance or inquiries, you can contact our admissions office at [12345] or email us at [sharnbasvauniversity@gmail.com]. We are here to help you!
